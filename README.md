@@ -1,7 +1,7 @@
 # odin-recipes
 
-# HTML Project
+HTML Project
 
-# Demonstrated Skills:
+Demonstrated Skills:
 
-# Fill this in after project completion
+Fill this in after project completion
