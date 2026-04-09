@@ -4,4 +4,8 @@ HTML Project
 
 Demonstrated Skills:
 
-Fill this in after project completion
+- Create file structure
+- Ordered and unordered lists
+- Relative links
+- Image source 
+- HTML format
